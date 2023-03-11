@@ -10,4 +10,5 @@ bot.on("message", async msg => {
     // if(text === "/start") {
     //     await bot.sendMessage(chatId, `Введите пароль`)
     // }
+    await bot.sendMessage(chatId, `Хахаха я знаю кто ты! Ты {msg.from.firstName}`)
 })
