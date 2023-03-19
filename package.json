@@ -7,7 +7,7 @@
     "dev": "nodemon index.js",
     "start": "node index.js"
   },
-  "author": "",
+  "author": "Ivanov Vova",
   "license": "ISC",
   "dependencies": {
     "node-telegram-bot-api": "^0.61.0",
