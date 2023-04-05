@@ -10,6 +10,8 @@
   "author": "Ivanov Vova",
   "license": "ISC",
   "dependencies": {
+    "cron": "^2.3.0",
+    "node-cron": "^3.0.2",
     "node-telegram-bot-api": "^0.61.0",
     "nodemon": "^2.0.21"
   }
